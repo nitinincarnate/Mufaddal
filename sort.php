@@ -34,7 +34,7 @@ alert("theres an error with AJAX");
 );
 </script>
 </head>
-<body>
+<body> 
 <h1>Menu List</h1>
 
 <?php
